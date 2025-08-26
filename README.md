@@ -48,8 +48,8 @@ Analyzes the **last 50 contests** of each division (Div 1, 2, 3, and 4), updated
 
 ## 🙋‍♂️ Author
 
-**Ashutosh Patel**  
-Information Technology
+**Nimit Saxena**  
+Computer Science
 B.Tech (2022–2026), National Institute of Technology , Raipur
 
 ---
